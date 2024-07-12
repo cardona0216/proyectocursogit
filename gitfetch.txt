@@ -1,0 +1,3 @@
+en esta parte del curso veremos de que trata el comando git-fecht
+
+con este comando nos trae los cambieos que se hicieron de forma remota, o cambios que estan subidos de forma remota
