@@ -1,0 +1,4 @@
+en esta seccion veremos tres herramientas puntualmente
+git reset
+git reset hard
+git checkout para desecet cambios
